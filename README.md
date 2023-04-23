@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramjit46&label=Profile%20views&color=0e75b6&style=flat" alt="paramjit46" /> </p>
 
-- 🔭 I’m currently working on [Cleaning Data with MS-SQL](https://github.com/Paramjit46/SQL)
+- 🔭 I’m currently working on [Cleaning Data with MS SQL Server](https://github.com/Paramjit46/SQL)
 - 🌱 I’m currently learning **Python & Data Science**
 - 👨‍💻 All of my projects are available at [https://github.com/Paramjit46/Portfolio-Projects](https://github.com/Paramjit46/Portfolio-Projects)
 - 📫 How to reach me **paramjit46@gmail.com**

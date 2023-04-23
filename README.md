@@ -2,7 +2,7 @@
 ![logo](https://github.com/Paramjit46/Paramjit46/blob/main/Data%20Analyst%201.png)
 
 <h1 align="center">Hi, I'm Paramjit Singh 👋</h1>
-<h3 align="center">A passionate Data Analyst and Data Visualization entusiast</h3>
+<h3 align="center">A passionate Data Analyst and Data Visualization enthusiast</h3>
 
 <img align="right" alt="Data Visualization" width="300" src="https://user-images.githubusercontent.com/130072207/233847181-2d0bc9ea-b212-4833-8061-600079dfebc6.gif">
 

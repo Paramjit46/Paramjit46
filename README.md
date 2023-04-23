@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Paramjit46/Paramjit46/blob/main/Data%20Analyst%201.png)
+![logo](https://github.com/Paramjit46/Paramjit46/blob/main/Data%20Analyst.png)
 
 <h1 align="center">Hi, I'm Paramjit Singh 👋</h1>
 <h3 align="center">A passionate Data Analyst and Data Visualization enthusiast</h3>

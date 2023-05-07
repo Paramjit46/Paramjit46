@@ -25,14 +25,14 @@
 </div>  
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/My%20SQL.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Python.svg" alt="Python" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/PowerBI.svg" alt="Power Bi" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.looker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Looker.svg" alt="Looker" height="50" /></a>  
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Jira.svg" alt="Jira" height="50" /></a>  
-<a href="https://www.servicenow.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Service%20Now.svg" alt="Service Now" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Google%20Cloud.svg" alt="GCP" height="50" /></a>  
+<p align="left"> <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/My%20SQL.png" alt="MySQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Python.png" alt="Python" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Power%20BI.png" alt="Power BI" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Tableau.png" alt="Tableau" height="50" /></a>  
+<a href="https://www.looker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Looker.png" alt="Looker" height="50" /></a>  
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Jira.png" alt="Jira" height="50" /></a>  
+<a href="https://www.servicenow.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Service%20Now.png" alt="Service Now" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Google%20Cloud.png" alt="GCP" height="50" /></a>  
 </div>
 
 

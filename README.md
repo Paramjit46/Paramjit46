@@ -17,7 +17,7 @@
 <h3 align="left">Credly Badges Received:</h3>
 <p align="left">
 <a href="https://www.credly.com/earner/earned/badge/aeee6ed6-9621-4ce7-a213-786e3fb062f7" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Tableau%20Desktop%20Specialist.png" alt="Python" height="100" /></a>
-<a href="https://www.credly.com/earner/earned/badge/462a1bd4-110c-4c96-b153-3e2f263e6739" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Data%20Analytics%20Essentials.png" alt="Python" height="100" /></a>
+<a href="https://www.credly.com/earner/earned/badge/462a1bd4-110c-4c96-b153-3e2f263e6739" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Data%20Analytics%20Essentials.png" alt="Python" height="80" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

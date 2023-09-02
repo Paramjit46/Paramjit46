@@ -14,6 +14,10 @@
 - 👨‍💻 All of my projects are available at [Portfolio-Projects](https://github.com/Paramjit46/Portfolio-Projects)
 - 📫 Drop me an email at **paramjit46@gmail.com**
 
+<h3 align="left">Credly Badges Received:</h3>
+<p align="left">
+<a href="https://www.credly.com/badges/aeee6ed6-9621-4ce7-a213-786e3fb062f7/public_url" target="_blank">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paramjit46" target="_blank">

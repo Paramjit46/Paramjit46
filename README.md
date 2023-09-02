@@ -16,7 +16,7 @@
 
 <h3 align="left">Credly Badges Received:</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/aeee6ed6-9621-4ce7-a213-786e3fb062f7/public_url" target="_blank">
+<a href="https://www.credly.com/badges/aeee6ed6-9621-4ce7-a213-786e3fb062f7/public_url" target="_blank"><img style="margin: 10px" src="https://github.com/Paramjit46/Paramjit46/blob/main/Tableau%20Desktop%20Specialist.png" alt="Python" height="50" /></a>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
